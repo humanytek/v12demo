@@ -1,0 +1,4 @@
+[submodule "AfroMonkey/odoo_module_test"]
+	path = AfroMonkey/odoo_module_test
+	url = git@github.com:AfroMonkey/odoo_module_test.git
+	branch = master
